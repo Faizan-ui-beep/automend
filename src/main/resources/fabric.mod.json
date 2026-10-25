@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "automend",
+  "version": "${version}",
+  "name": "AutoMend",
+  "description": "Automatically takes off mended armour pieces and puts them back on.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.automend.AutoMendClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
