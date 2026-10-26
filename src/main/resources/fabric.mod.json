@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "id": "automend",
   "version": "${version}",
-  "name": "AutoMend",
-  "description": "Automatically takes off mended armour pieces and puts them back on.",
-  "authors": ["You"],
+  "name": "DarkSpider Auto Mend",
+  "description": "Automatic armour mending with a sleek GUI: auto take-off, one-click mend, panic restore and more.",
+  "authors": ["DarkSpider"],
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
