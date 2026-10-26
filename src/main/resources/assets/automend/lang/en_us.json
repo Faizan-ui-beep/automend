@@ -1,0 +1,7 @@
+{
+  "key.automend.gui": "Open GUI",
+  "key.automend.toggle": "Toggle on/off",
+  "key.automend.mend": "Mend now (one click)",
+  "key.automend.panic": "Panic (armour back on)",
+  "category.automend": "DarkSpider Auto Mend"
+}
